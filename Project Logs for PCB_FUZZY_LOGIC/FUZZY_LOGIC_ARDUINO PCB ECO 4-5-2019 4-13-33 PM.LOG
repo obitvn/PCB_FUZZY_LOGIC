@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=*-23
+Removed Pin From Net: NetName=GND Pin=*-24
+Removed Pin From Net: NetName=GND Pin=*-25
+Removed Pin From Net: NetName=GND Pin=*-26
+Added Room: Name=FUZZY_LOGIC_ARDUINO

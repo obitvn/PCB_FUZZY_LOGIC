@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=12V Pin=A1-29
+Change Component Footprint: Designator=R1 Old Footprint=RESISTOR 1/4W New Footprint=R1/4W
+Change Component Footprint: Designator=R2 Old Footprint=RESISTOR 1/4W New Footprint=R1/4W
+Added Room: Name=FUZZY_LOGIC_ARDUINO

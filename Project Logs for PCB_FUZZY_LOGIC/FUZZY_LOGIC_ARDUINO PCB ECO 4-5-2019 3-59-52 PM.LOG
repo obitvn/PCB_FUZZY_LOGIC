@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=Net*_14 Pin=A1-18
+Removed Pin From Net: NetName=Net*_13 Pin=A1-19
+Removed Pin From Net: NetName=Net*_12 Pin=A1-20
+Removed Pin From Net: NetName=Net*_11 Pin=A1-21
+Change Component Footprint: Designator=J1 Old Footprint=KF2-5.08T New Footprint=KF2-3.5
+Change Component Footprint: Designator=J2 Old Footprint=KF2-5.08T New Footprint=KF2-3.5
+Change Component Footprint: Designator=J3 Old Footprint=KF3-5.08T New Footprint=KF3-5.08
+Change Component Footprint: Designator=J4 Old Footprint=KF3-5.08T New Footprint=KF3-5.08
+Change Component Footprint: Designator=R1 Old Footprint=RESISTOR 1/4W New Footprint=SM-RES-0805
+Change Component Footprint: Designator=R2 Old Footprint=RESISTOR 1/4W New Footprint=SM-RES-0805
+Added Pin To Net: NetName=Net*_11 Pin=A1-18
+Added Pin To Net: NetName=Net*_12 Pin=A1-19
+Added Pin To Net: NetName=Net*_13 Pin=A1-20
+Added Pin To Net: NetName=Net*_14 Pin=A1-21
+Added Room: Name=FUZZY_LOGIC_ARDUINO
